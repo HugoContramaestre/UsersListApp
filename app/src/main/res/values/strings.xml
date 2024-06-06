@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsersListApp</string>
+    <string name="error_generic">Ha ocurrido un error!</string>
+    <string name="content_description">image</string>
+    <string name="name_label">Nombre:</string>
+    <string name="surname_label">Apellido</string>
+    <string name="email_label">email:</string>
+    <string name="loading">Cargando</string>
+</resources>
